@@ -1,6 +1,6 @@
 Package: uisapi
 Title: Access the UNESCO Institute for Statistics API
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Christoph", "Scheuch", , "christoph@tidy-intelligence.com", 
             role = c("aut", "cre", "cph"),
@@ -22,9 +22,9 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-03-04 18:47:42 UTC; krise
-Author: Christoph Scheuch [aut, cre, cph]
-    (<https://orcid.org/0009-0004-0423-6819>)
+Packaged: 2025-10-01 21:36:13 UTC; krise
+Author: Christoph Scheuch [aut, cre, cph] (ORCID:
+    <https://orcid.org/0009-0004-0423-6819>)
 Maintainer: Christoph Scheuch <christoph@tidy-intelligence.com>
 Repository: CRAN
-Date/Publication: 2025-03-06 16:50:01 UTC
+Date/Publication: 2025-10-02 05:20:02 UTC
